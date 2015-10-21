@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="MyTheme" parent="android:Theme.Light">
+    
+    </style>
+        
+    <style name="layout">
+        <item name="android:background">#C0C0C0</item>
+    </style>
+</resources>
